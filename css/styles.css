@@ -241,6 +241,7 @@ a {
 }
 a:hover {
   color: #0056b3;
+  text-decoration: underline;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -663,7 +664,7 @@ progress {
 }
 @media (min-width: 1400px) {
   .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1320px;
+    max-width: 1140px;
   }
 }
 .row {
@@ -3030,12 +3031,12 @@ textarea.form-control-lg {
 }
 
 .btn-primary {
-  color: #000;
+  color: #fff;
   background-color: #e6a756;
   border-color: #e6a756;
 }
 .btn-primary:hover {
-  color: #000;
+  color: #fff;
   background-color: #eab46f;
   border-color: #e9b067;
 }

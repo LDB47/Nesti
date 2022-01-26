@@ -41,6 +41,7 @@ switch ($loc) {
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
         <link rel="stylesheet" href="css/business-casual.min.css">
+        <link rel="stylesheet" href="css/custom.css">
     </head>
     <body>
     <?php 
